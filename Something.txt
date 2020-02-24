@@ -1,0 +1,2 @@
+use puppeteer for web scraping and all web browser automation with javascript
+use bs4 for web scraping with python
